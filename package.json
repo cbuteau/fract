@@ -1,0 +1,23 @@
+{
+  "name": "fract",
+  "version": "1.0.0",
+  "description": "Fractal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuteau/fract.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbuteau/fract/issues"
+  },
+  "homepage": "https://github.com/cbuteau/fract#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
